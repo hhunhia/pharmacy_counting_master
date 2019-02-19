@@ -1,0 +1,2 @@
+id,prescriber_last_name,prescriber_first_name,drug_name,drug_cost
+1952310666,A'BODJEDI,ENENGE,HALOPERIDOL,830.99
